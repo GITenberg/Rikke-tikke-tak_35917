@@ -25,6 +25,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Hendrik_Conscience
     - http://en.wikipedia.org/wiki/Hendrik_Conscience
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35917#Rikke-tikke-tak
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2011-04-20'
 gutenberg_type: Text
