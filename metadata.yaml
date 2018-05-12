@@ -1,0 +1,41 @@
+_repo: Rikke-tikke-tak_35917
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Posenaer, Maria
+    birthdate: 1874
+    deathdate: 1956
+    gutenberg_agent_id: '37978'
+    url: http://www.gutenberg.org/2009/agents/37978
+    wikipedia: http://eo.wikipedia.org/wiki/Maria_Elworthy-Posenaer
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Conscience, Hendrik
+    aliases:
+    - Conscience, Henri
+    - Conscience, Henryk
+    birthdate: 1812
+    deathdate: 1883
+    gutenberg_agent_id: '3882'
+    url: http://www.gutenberg.org/2009/agents/3882
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Hendrik_Conscience
+    - http://en.wikipedia.org/wiki/Hendrik_Conscience
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2011-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35917'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: Rikke-tikke-tak
+url: http://www.gutenberg.org/ebooks/35917
